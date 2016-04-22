@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e460dfdf-c37c-4b24-b6c9-42c7bc3feebe" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50000/RoleService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RoleService.wsdl" MetadataType="Wsdl" ID="c4275467-19bd-478d-ab5a-44f1e44ca5c5" SourceId="1" SourceUrl="http://localhost:50000/RoleService?wsdl" />
+    <MetadataFile FileName="RoleService.xsd" MetadataType="Schema" ID="1799fbc8-fb6c-4677-8455-7d4de2aad6e0" SourceId="1" SourceUrl="http://localhost:50000/RoleService?xsd=xsd2" />
+    <MetadataFile FileName="RoleService1.xsd" MetadataType="Schema" ID="66d7cec6-333d-42db-8f45-96d78a93bbc0" SourceId="1" SourceUrl="http://localhost:50000/RoleService?xsd=xsd0" />
+    <MetadataFile FileName="RoleService2.xsd" MetadataType="Schema" ID="6f6ac753-5637-4cf2-8116-f8ef585bfd8c" SourceId="1" SourceUrl="http://localhost:50000/RoleService?xsd=xsd1" />
+    <MetadataFile FileName="RoleService.disco" MetadataType="Disco" ID="37c01fce-4d63-4b94-baea-5d82a015ff46" SourceId="1" SourceUrl="http://localhost:50000/RoleService?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

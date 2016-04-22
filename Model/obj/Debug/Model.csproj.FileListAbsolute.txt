@@ -1,0 +1,4 @@
+D:\VS projects\WCFDemo\Model\bin\Debug\Model.dll
+D:\VS projects\WCFDemo\Model\bin\Debug\Model.pdb
+D:\VS projects\WCFDemo\Model\obj\Debug\Model.dll
+D:\VS projects\WCFDemo\Model\obj\Debug\Model.pdb

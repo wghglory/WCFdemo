@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d3905d51-7198-4a60-86be-df5770314767" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:22493/RoleServiceHost.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RoleService.wsdl" MetadataType="Wsdl" ID="38b5d41d-eca9-45c7-9e8e-ae330e084b21" SourceId="1" SourceUrl="http://localhost:22493/RoleServiceHost.svc?wsdl" />
+    <MetadataFile FileName="RoleServiceHost.xsd" MetadataType="Schema" ID="e31f58e2-fb41-4624-bb10-b54b791577e5" SourceId="1" SourceUrl="http://localhost:22493/RoleServiceHost.svc?xsd=xsd1" />
+    <MetadataFile FileName="RoleServiceHost1.xsd" MetadataType="Schema" ID="92fbf6b4-c361-4c56-bd93-15a06553c2c2" SourceId="1" SourceUrl="http://localhost:22493/RoleServiceHost.svc?xsd=xsd0" />
+    <MetadataFile FileName="RoleServiceHost2.xsd" MetadataType="Schema" ID="e5a7cbab-7b6d-4022-b70b-80769ff72dde" SourceId="1" SourceUrl="http://localhost:22493/RoleServiceHost.svc?xsd=xsd2" />
+    <MetadataFile FileName="RoleServiceHost.disco" MetadataType="Disco" ID="d3bbeee3-5676-4f50-88c6-2f16f30c8bd0" SourceId="1" SourceUrl="http://localhost:22493/RoleServiceHost.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

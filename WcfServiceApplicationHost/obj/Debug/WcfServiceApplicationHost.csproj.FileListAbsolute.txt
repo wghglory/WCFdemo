@@ -1,0 +1,12 @@
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\bin\WcfServiceApplicationHost.dll.config
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\bin\WcfServiceApplicationHost.dll
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\bin\WcfServiceApplicationHost.pdb
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\bin\BLL.dll
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\bin\IBLL.dll
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\bin\Model.dll
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\bin\BLL.pdb
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\bin\IBLL.pdb
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\bin\Model.pdb
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\obj\Debug\WcfServiceApplicationHost.csprojResolveAssemblyReference.cache
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\obj\Debug\WcfServiceApplicationHost.dll
+D:\VS projects\WCFDemo\WcfServiceApplicationHost\obj\Debug\WcfServiceApplicationHost.pdb

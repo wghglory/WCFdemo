@@ -1,0 +1,17 @@
+\\psf\Home\Desktop\WCFDemo\IBLL\bin\Debug\IBLL.dll
+\\psf\Home\Desktop\WCFDemo\IBLL\bin\Debug\IBLL.pdb
+\\psf\Home\Desktop\WCFDemo\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\WCFDemo\IBLL\obj\Debug\IBLL.dll
+\\psf\Home\Desktop\WCFDemo\IBLL\obj\Debug\IBLL.pdb
+C:\WCFDemo\IBLL\bin\Debug\IBLL.dll
+C:\WCFDemo\IBLL\bin\Debug\IBLL.pdb
+C:\WCFDemo\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+C:\WCFDemo\IBLL\obj\Debug\IBLL.dll
+C:\WCFDemo\IBLL\obj\Debug\IBLL.pdb
+D:\VS projects\WCFDemo\IBLL\bin\Debug\IBLL.dll
+D:\VS projects\WCFDemo\IBLL\bin\Debug\IBLL.pdb
+D:\VS projects\WCFDemo\IBLL\bin\Debug\Model.dll
+D:\VS projects\WCFDemo\IBLL\bin\Debug\Model.pdb
+D:\VS projects\WCFDemo\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+D:\VS projects\WCFDemo\IBLL\obj\Debug\IBLL.dll
+D:\VS projects\WCFDemo\IBLL\obj\Debug\IBLL.pdb

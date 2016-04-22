@@ -1,0 +1,12 @@
+D:\VS projects\WCFDemo\WCFHost\bin\Debug\WCFHost.exe.config
+D:\VS projects\WCFDemo\WCFHost\obj\Debug\WCFHost.exe
+D:\VS projects\WCFDemo\WCFHost\obj\Debug\WCFHost.pdb
+D:\VS projects\WCFDemo\WCFHost\bin\Debug\WCFHost.exe
+D:\VS projects\WCFDemo\WCFHost\bin\Debug\WCFHost.pdb
+D:\VS projects\WCFDemo\WCFHost\bin\Debug\BLL.dll
+D:\VS projects\WCFDemo\WCFHost\bin\Debug\IBLL.dll
+D:\VS projects\WCFDemo\WCFHost\bin\Debug\Model.dll
+D:\VS projects\WCFDemo\WCFHost\bin\Debug\BLL.pdb
+D:\VS projects\WCFDemo\WCFHost\bin\Debug\IBLL.pdb
+D:\VS projects\WCFDemo\WCFHost\bin\Debug\Model.pdb
+D:\VS projects\WCFDemo\WCFHost\obj\Debug\WCFHostConsoleApp.csprojResolveAssemblyReference.cache
